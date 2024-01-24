@@ -48,7 +48,7 @@ NOW YOU HAVE SUCCESSFULLY INSTALL NGINX NEW STABLE VERSION 1.20.2 ,but some time
 
 i have attached the default nginx.conf file replace with the new one,on the save path.
 ```
-nano /etc/nginx/nginx.conf
+sudo nano /etc/nginx/nginx.conf
 ```
 replace the file
 ```
