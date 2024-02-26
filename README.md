@@ -174,6 +174,15 @@ sudo nginx -s reload
 You can use online tools or browser developer tools to verify that Gzip compression is enabled for your API responses.
 With these steps, you should have Gzip compression enabled for your Laravel API server using Nginx, resulting in faster and more efficient responses.
 
+______________________________________________________________________________________________
+
+
+Custome configration in Nginx user permission
+===================================
+```
+/var/cache/nginx/fastcgi_temp
+/var/run/php
+```
 
 
 
